@@ -2,7 +2,7 @@
 
 Sitio web de dos páginas para una heladería, hecho como **Trabajo Práctico N.º 1** de Programación III (UTN San Nicolás). Usa solo HTML y CSS, sin JavaScript ni frameworks.
 
-- **Autor:** [Benjamin Gorski]
+- **Autor:** Benjamin Gorski
 - **Sitio publicado:** []
 
 ## Páginas
