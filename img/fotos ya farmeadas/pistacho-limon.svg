@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200"><rect width="200" height="200" fill="#fff1e0"/><polygon points="68,112 132,112 100,186" fill="#d9a05b"/>
+<path d="M78 124 L112 168 M92 120 L120 156 M108 118 L126 140 M122 114 L130 124 M88 126 L74 144 M100 140 L84 160" stroke="#b97a35" stroke-width="3" fill="none"/>
+<circle cx="100" cy="42" r="30" fill="#f7e66b"/><circle cx="100" cy="94" r="40" fill="#a8d08d"/><ellipse cx="100" cy="120" rx="44" ry="11" fill="#a8d08d"/>
+<circle cx="84" cy="80" r="8" fill="#fff" opacity=".35"/></svg>
