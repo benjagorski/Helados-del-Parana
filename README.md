@@ -45,4 +45,4 @@ Descargá o cloná el repositorio y abrí `index.html` en el navegador. No neces
 
 ## Imágenes
 
-Las ilustraciones son archivos SVG hechos para este proyecto.
+Las ilustraciones son archivos SVG hechos para este proyecto y PNG.
