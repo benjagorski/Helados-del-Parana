@@ -130,6 +130,10 @@ footer {
 footer address { font-style: normal; margin-bottom: .5rem; }
 footer a { color: var(--rosa-claro); }
 footer p { margin: .25rem 0; }
+.redes { display: flex; justify-content: center; margin: .5rem 0; padding: 0; list-style: none; }
+.redes li { margin: 0 .5rem; }
+.redes a { display: block; transition: transform .3s ease, opacity .3s ease; }
+.redes a:hover, .redes a:focus { transform: scale(1.2); opacity: .8; }
 
 /* media query: pantallas más grandes */
 @media (min-width: 48em) {
